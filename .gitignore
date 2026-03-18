@@ -1,0 +1,51 @@
+# Dependencies
+**/node_modules/
+
+# Expo
+**/.expo/
+**/dist/
+**/web-build/
+**/build/
+
+# Native
+**/ios/
+**/android/
+**/.kotlin/
+**/*.orig.*
+**/*.jks
+**/*.p8
+**/*.p12
+**/*.key
+**/*.mobileprovision
+
+# Metro
+**/.metro-health-check*
+
+# Logs and Debug
+**/*.log
+**/*.txt
+**/out.txt
+**/test_out.txt
+**/debug_log.txt
+**/test_results*.json
+**/debug_*.txt
+**/*.tsbuildinfo
+
+# IDE and OS
+**/.DS_Store
+**/.idea/
+**/.vscode/
+
+# Environment and sensitive data
+**/.env
+**/.env.*
+**/.env*.local
+**/service-account.json
+**/*.pem
+
+# Temporary files
+**/tmp/
+**/.temp/
+
+# App example (from testapp)
+**/app-example/
